@@ -30,8 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
 
@@ -40,20 +39,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  |Crie um título de um ebook sobre o tema de php, o ebook é do nicho de programação e o sub nicho é o de desenvolvimento web com php. O título deve ser épico e curto. Deve ter uma temática de matrix. Me liste 5 variações de títulos |
+| conteúdo | Faça um texto para ebook, com foco em PHP, listando os principais comandos da linguagem e as principais funções, com exemplos em código. REGRAS - Explique sempre de uma maneira simples e que facilite o entendimento - Não use textos longos - Utilize sempre exemplos reais de código - Sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Canva：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie a imagem de um grupo de programadores vestindo sobretudos pretos, como se estivessem no topo de um edifício, praticando hacktivismo |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Canva
 
 ## 📚 Materiais
 
@@ -63,6 +62,8 @@ Midjourney：
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+
+- Foi utilizado o canva nesse projeto
 
 ## 👨‍💻 Expert
 
@@ -90,3 +91,10 @@ felipe-exe">LinkedIn</a>
 ---
 
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+
+## Personalização do Projeto
+
+[Marcos Aleixo](https://github.com/maleixorm)
+
+Utilizada 1 Ferramenta diferentes da recomendada (Canva).
+Capas Prompts, e Conteúdos foram modificados do projeto original.
